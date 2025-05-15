@@ -38,12 +38,12 @@ The game map is designed using the **Tiled** map editor, offering dynamic enviro
 - **Sprites and Assets**: 2D pixel art for characters, enemies, and items.
 
 ## Screenshots
-![Alt Text](presentations/images/zombie war 1.png)
-![Alt Text](presentations/images/zombie war 2.png)
-![Alt Text](presentations/images/zombie war 3.png)
-![Alt Text](presentations/images/zombie war 4.png)
-![Alt Text](presentations/images/zombie war 5.png)
-![Alt Text](presentations/images/zombie war 6.png)
+![Alt Text](presentations/images/1.png)
+![Alt Text](presentations/images/2.png)
+![Alt Text](presentations/images/3.png)
+![Alt Text](presentations/images/4.png)
+![Alt Text](presentations/images/5.png)
+![Alt Text](presentations/images/6.png)
 
 ## Installation
 
