@@ -1,0 +1,66 @@
+\documentclass{beamer}
+
+\title{Zombie Wars}
+\subtitle{Team CodHers: Annapurna Adhikari, Chitti Thalli Kaja, Kashika
+Malhotra, Khushleen Kaur, Vaishnavi Vikramsinh Bhosale}
+
+\usetheme{Berlin}
+\begin{document}
+	\frame {
+		\titlepage
+	}
+	\frame{
+	    \frametitle{Our Aim}
+	    Develop a captivating zombie-themed game using
+        Pygame to explore game development.
+	}
+  
+    \frame{
+		\frametitle{Progress Report 1}
+		\begin{itemize}
+			\item Learned about pygame 
+			\item Done with the setup of camera, player,made it moving
+		\end{itemize}
+	}
+    \frame{
+		\frametitle{Progress Report 2}
+		\begin{itemize}
+			\item Background made on tiles 
+			\item Integrating the background
+            \item Graphics done
+		\end{itemize}
+	}
+
+	\frame{
+		\frametitle{Progress Report 3}
+		\begin{itemize}
+			\item Player Animation 
+			\item Weapons
+		\end{itemize}
+	}
+
+	\frame{
+		\frametitle{Today's Progress Report}
+		\begin{itemize}
+			\item Magic setup
+			\item UI
+			\item Enemy creation
+			\item Added enemy-player interation
+		\end{itemize}
+	}
+
+
+
+    \frame{
+		\frametitle{Next Steps}
+		\begin{itemize}
+			\item Add die Animation
+			\item Add spells
+			\item Final Fixes
+		\end{itemize}
+	}
+	\frame{
+	    \frametitle{End}
+	    Thankyou!
+	}
+\end{document}
